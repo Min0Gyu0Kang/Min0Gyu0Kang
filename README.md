@@ -13,7 +13,7 @@
 >#### 연락처 Contacts (change to form)
 - 연락처 (Updated 2024 08 30): __010-8465-0182__ </br>
 - 이메일: [학교 이메일/비즈니스 이메일](mailto:myname@g.skku.edu) </br>
-- 제의 받는 중 Accepting Job Offers (Updated 2024 08 30): __아니오 None__
+- 제의 받는 중 Accepting Job Offers (Updated 2025 01 31): __예 Yes__
 
 >#### 대외 활동 Social Projects/Activities 
 - [코드잇: 대학교 코딩 캠프 2기](https://cafe.naver.com/studentcodingcamp) [노션에 정리해둔 학습](https://locrian-jumpsuit-ec0.notion.site/46a7f20b565b4153adcab4c84598b7eb) </br>
