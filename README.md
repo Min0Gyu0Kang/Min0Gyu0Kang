@@ -9,6 +9,7 @@
 
 >#### 개인 활동 Active
 - 블로그: [개발 회고록](https://velog.io/@min0gyu0kang/posts)
+- DigitalGarden: [작은 수박의 개발 블로그입니다!](https://watermelon-harvest.pages.dev/)
 
 >#### 연락처 Contacts (change to form)
 - 연락처 (Updated 2024 08 30): __010-8465-0182__ </br>
@@ -21,7 +22,8 @@
 
 >#### 사용 가능한 프로그램
 >- Java Eclipse
->- Python IDE
+>- JetBrains IntelliJ
+>- Docker
 >- Kotlin-based Android Studio
 
 >#### 사용 가능한 프레임워크 (change to badge)
