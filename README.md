@@ -10,6 +10,7 @@
 >#### 개인 활동 Active
 - 블로그: [개발 회고록](https://velog.io/@min0gyu0kang/posts)
 - DigitalGarden: [작은 수박의 개발 블로그입니다!](https://watermelon-harvest.pages.dev/)
+- Gist: [My Gist](https://gist.github.com/Min0Gyu0Kang)
 
 >#### 연락처 Contacts
 - 연락처 (Updated 2024 08 30): __010-8465-0182__ </br>
