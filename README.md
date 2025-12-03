@@ -37,5 +37,6 @@
 >- ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 >- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Min0Gyu0Kang)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min0Gyu0Kang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-beta-ten.vercel.app/api/top-langs/?username=Min0Gyu0Kang&count_private=true&count_public=true)](https://github.com/Min0Gyu0Kang/github-readme-stats)
+
+[![Min0Gyu0Kang's GitHub stats](https://readme-stats-beta-ten.vercel.app/api?username=Min0Gyu0Kang)](https://github.com/Min0Gyu0Kang/github-readme-stats)
