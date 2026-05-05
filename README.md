@@ -14,7 +14,7 @@
 
 >#### 연락처 Contacts
 - 연락처 (Updated 2024 08 30): __010-8465-0182__ </br>
-- 이메일: [비즈니스 이메일](mailto: mgk06091101@gmail.com) </br>
+- 이메일: [비즈니스 이메일](mgk06091101@gmail.com) </br>
 - 제의 받는 중 Accepting Job Offers (Updated 2026 05 05): __예 Yes__
 
 >#### 대외 활동 Social Projects/Activities 
